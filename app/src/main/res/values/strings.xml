@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Document Editor</string>
+    <string name="mainimage">mainimage</string>
+    <string name="choose_file" />
+    <string name="chooser_title" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pickup">PickUp</string>
+    <string name="path">path</string>
+    <string name="picked">Picked</string>
+    <string name="select_file">Select file</string>
+    <string name="uri">URI:</string>
+    <string name="paths">Path</string>
+    <string name="read_file">read file</string>
+    <string name="create">Create</string>
+    <string name="press_storage_to_chosse_file_for_reading">Press storage to chosse file for reading</string>
+    <string name="exit">Do you want to exit ?</string>
+    <string name="yes">Yest!</string>
+    <string name="cancel">No!</string>
+    <string name="message_text">Exit?</string>
+    <string name="yesbtn">yes!</string>
+    <string name="nobtn">no!</string>
+    <string name="_1">1</string>
+</resources>
